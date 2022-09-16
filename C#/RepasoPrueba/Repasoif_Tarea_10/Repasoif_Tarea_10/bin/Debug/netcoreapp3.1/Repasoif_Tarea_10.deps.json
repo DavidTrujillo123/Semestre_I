@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Repasoif_Tarea_10/1.0.0": {
+        "runtime": {
+          "Repasoif_Tarea_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repasoif_Tarea_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

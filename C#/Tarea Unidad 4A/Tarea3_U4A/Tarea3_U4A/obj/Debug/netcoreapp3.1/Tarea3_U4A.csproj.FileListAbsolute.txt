@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\bin\Debug\netcoreapp3.1\Tarea3_U4A.exe
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\bin\Debug\netcoreapp3.1\Tarea3_U4A.deps.json
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\bin\Debug\netcoreapp3.1\Tarea3_U4A.runtimeconfig.json
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\bin\Debug\netcoreapp3.1\Tarea3_U4A.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\bin\Debug\netcoreapp3.1\Tarea3_U4A.dll
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\bin\Debug\netcoreapp3.1\Tarea3_U4A.pdb
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.dll
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.pdb
+C:\Users\Usuario\source\repos\Tarea3_U4A\Tarea3_U4A\obj\Debug\netcoreapp3.1\Tarea3_U4A.genruntimeconfig.cache

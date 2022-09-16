@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tarea08_Unidad3/1.0.0": {
+        "runtime": {
+          "Tarea08_Unidad3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea08_Unidad3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\bin\Debug\netcoreapp3.1\Tarea_9.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\bin\Debug\netcoreapp3.1\Tarea_9.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\bin\Debug\netcoreapp3.1\Tarea_9.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\bin\Debug\netcoreapp3.1\Tarea_9.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\bin\Debug\netcoreapp3.1\Tarea_9.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\bin\Debug\netcoreapp3.1\Tarea_9.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2A\Tarea_9\Tarea_9\obj\Debug\netcoreapp3.1\Tarea_9.genruntimeconfig.cache

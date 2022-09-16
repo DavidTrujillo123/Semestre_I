@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CiclosRepetitivos_Figuras/1.0.0": {
+        "runtime": {
+          "CiclosRepetitivos_Figuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CiclosRepetitivos_Figuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

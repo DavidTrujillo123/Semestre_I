@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AL-E03-DavidTrujillo/1.0.0": {
+        "runtime": {
+          "AL-E03-DavidTrujillo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AL-E03-DavidTrujillo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

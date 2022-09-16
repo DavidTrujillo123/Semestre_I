@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Repaso_Examen_ForWhile/1.0.0": {
+        "runtime": {
+          "Repaso_Examen_ForWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repaso_Examen_ForWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

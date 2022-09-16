@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\bin\Debug\netcoreapp3.1\TareaDeRepaso_5.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\bin\Debug\netcoreapp3.1\TareaDeRepaso_5.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\bin\Debug\netcoreapp3.1\TareaDeRepaso_5.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\bin\Debug\netcoreapp3.1\TareaDeRepaso_5.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\bin\Debug\netcoreapp3.1\TareaDeRepaso_5.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\bin\Debug\netcoreapp3.1\TareaDeRepaso_5.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_5\TareaDeRepaso_5\obj\Debug\netcoreapp3.1\TareaDeRepaso_5.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tarea7_U4A/1.0.0": {
+        "runtime": {
+          "Tarea7_U4A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea7_U4A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

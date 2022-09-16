@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\bin\Debug\netcoreapp3.1\Tarea20_U4B.exe
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\bin\Debug\netcoreapp3.1\Tarea20_U4B.deps.json
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\bin\Debug\netcoreapp3.1\Tarea20_U4B.runtimeconfig.json
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\bin\Debug\netcoreapp3.1\Tarea20_U4B.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\bin\Debug\netcoreapp3.1\Tarea20_U4B.dll
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\bin\Debug\netcoreapp3.1\Tarea20_U4B.pdb
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.dll
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.pdb
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\U\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea Unidad 4B\Tarea20_U4B\Tarea20_U4B\obj\Debug\netcoreapp3.1\Tarea20_U4B.csproj.AssemblyReference.cache

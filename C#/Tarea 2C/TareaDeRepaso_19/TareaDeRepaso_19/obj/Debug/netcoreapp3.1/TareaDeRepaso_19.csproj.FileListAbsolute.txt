@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\bin\Debug\netcoreapp3.1\TareaDeRepaso_19.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\bin\Debug\netcoreapp3.1\TareaDeRepaso_19.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\bin\Debug\netcoreapp3.1\TareaDeRepaso_19.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\bin\Debug\netcoreapp3.1\TareaDeRepaso_19.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\bin\Debug\netcoreapp3.1\TareaDeRepaso_19.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\bin\Debug\netcoreapp3.1\TareaDeRepaso_19.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_19\TareaDeRepaso_19\obj\Debug\netcoreapp3.1\TareaDeRepaso_19.genruntimeconfig.cache

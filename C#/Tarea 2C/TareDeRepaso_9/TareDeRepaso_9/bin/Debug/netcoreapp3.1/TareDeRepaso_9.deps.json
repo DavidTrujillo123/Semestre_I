@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TareDeRepaso_9/1.0.0": {
+        "runtime": {
+          "TareDeRepaso_9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareDeRepaso_9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

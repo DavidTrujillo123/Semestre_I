@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\bin\Debug\netcoreapp3.1\TareaDeRepaso_11.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\bin\Debug\netcoreapp3.1\TareaDeRepaso_11.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\bin\Debug\netcoreapp3.1\TareaDeRepaso_11.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\bin\Debug\netcoreapp3.1\TareaDeRepaso_11.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\bin\Debug\netcoreapp3.1\TareaDeRepaso_11.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\bin\Debug\netcoreapp3.1\TareaDeRepaso_11.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2C\TareaDeRepaso_11\TareaDeRepaso_11\obj\Debug\netcoreapp3.1\TareaDeRepaso_11.genruntimeconfig.cache

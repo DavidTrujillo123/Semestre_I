@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\bin\Debug\netcoreapp3.1\Tarea26_U4B.exe
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\bin\Debug\netcoreapp3.1\Tarea26_U4B.deps.json
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\bin\Debug\netcoreapp3.1\Tarea26_U4B.runtimeconfig.json
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\bin\Debug\netcoreapp3.1\Tarea26_U4B.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\bin\Debug\netcoreapp3.1\Tarea26_U4B.dll
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\bin\Debug\netcoreapp3.1\Tarea26_U4B.pdb
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.dll
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.pdb
+C:\Users\Usuario\source\repos\Tarea26_U4B\Tarea26_U4B\obj\Debug\netcoreapp3.1\Tarea26_U4B.genruntimeconfig.cache

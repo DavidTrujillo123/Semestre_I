@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\bin\Debug\netcoreapp3.1\TareaInvertigacionCiclos.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\bin\Debug\netcoreapp3.1\TareaInvertigacionCiclos.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\bin\Debug\netcoreapp3.1\TareaInvertigacionCiclos.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\bin\Debug\netcoreapp3.1\TareaInvertigacionCiclos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\bin\Debug\netcoreapp3.1\TareaInvertigacionCiclos.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\bin\Debug\netcoreapp3.1\TareaInvertigacionCiclos.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaInvertigacionCiclos\TareaInvertigacionCiclos\obj\Debug\netcoreapp3.1\TareaInvertigacionCiclos.genruntimeconfig.cache

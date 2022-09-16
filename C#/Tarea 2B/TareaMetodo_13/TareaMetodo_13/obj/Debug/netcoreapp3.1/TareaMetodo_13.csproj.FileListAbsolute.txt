@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\bin\Debug\netcoreapp3.1\TareaMetodo_13.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\bin\Debug\netcoreapp3.1\TareaMetodo_13.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\bin\Debug\netcoreapp3.1\TareaMetodo_13.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\bin\Debug\netcoreapp3.1\TareaMetodo_13.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\bin\Debug\netcoreapp3.1\TareaMetodo_13.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\bin\Debug\netcoreapp3.1\TareaMetodo_13.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodo_13\TareaMetodo_13\obj\Debug\netcoreapp3.1\TareaMetodo_13.genruntimeconfig.cache

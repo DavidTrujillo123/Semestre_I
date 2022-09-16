@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\bin\Debug\netcoreapp3.1\TareaMetodos_10.exe
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\bin\Debug\netcoreapp3.1\TareaMetodos_10.deps.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\bin\Debug\netcoreapp3.1\TareaMetodos_10.runtimeconfig.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\bin\Debug\netcoreapp3.1\TareaMetodos_10.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\bin\Debug\netcoreapp3.1\TareaMetodos_10.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\bin\Debug\netcoreapp3.1\TareaMetodos_10.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.dll
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.pdb
+C:\Users\Usuario\Desktop\SEMESTRE I\LOGICA DE PROGRAMACION\C#\Tarea 2B\TareaMetodos_10\TareaMetodos_10\obj\Debug\netcoreapp3.1\TareaMetodos_10.genruntimeconfig.cache
